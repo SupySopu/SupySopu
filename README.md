@@ -2,7 +2,7 @@
 ![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
 
 <div>
-    <h1 align="center"><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> Hi! I'm SoupySoup <img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> </h1>
+    <h1 align="center"><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> Hi! I'm Supy <img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> </h1>
     <h3 align="center"> ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %85 ⋆ ☾ ☁｡⋆｡ﾟ ⋆</h3>
     <img src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/94a8a33d-5c36-44a1-a891-e8ddef78d9a9" align="left">
     </br></br>
