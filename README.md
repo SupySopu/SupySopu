@@ -46,6 +46,7 @@
 </div>
 
 <h1 align="center">Github Stats</h1>
+<br><br>
 
 [![Supy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupySopu&&theme=jolly)](https://github.com/SupySopu/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupySopu&layout=compact&&theme=jolly)
