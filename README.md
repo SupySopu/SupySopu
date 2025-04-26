@@ -47,5 +47,5 @@
 
 <h1 align="center">Github Stats</h1>
 
-![Soup's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupySopu8&show_icons=true&theme=jolly)
-![Soup's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupySopu8&&theme=jolly)
+[![Supy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupySopu&&theme=jolly)](https://github.com/SupySopu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupySopu&layout=compact&&theme=jolly)
